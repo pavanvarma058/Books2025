@@ -1,2 +1,6 @@
 Pineapple
 Water Melon
+Apple
+Banana
+Orange
+Mango
